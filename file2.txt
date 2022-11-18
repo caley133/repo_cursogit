@@ -1,0 +1,2 @@
+otro fichero file2 para la rama1
+
